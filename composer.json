@@ -1,0 +1,25 @@
+{
+    "name": "magelearn/module-percentageshipping",
+    "description": "Shipping method based on a percentage of cart price.",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        },
+        {
+            "email": "vijaymrami@gmail.com",
+            "name": "vijay rami"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magelearn\\PercentageShipping\\": ""
+        }
+    }
+}
