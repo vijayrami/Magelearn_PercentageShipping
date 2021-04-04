@@ -4,10 +4,10 @@ Create Custom Shipping method based on a percentage of cart price.
 ### Screenshots
 
 #### Admin Configuration
-![Order Value Below Free Shipping Minimum](https://i.postimg.cc/PJC77zyt/free-shipping1.png)
+[![Configuration-Settings-Stores-Magento-Admin-1.png](https://i.postimg.cc/W3PY6T7C/Configuration-Settings-Stores-Magento-Admin-1.png)](https://postimg.cc/2q2xCpM7)
 
 #### Frontend checkout page
-![Order Value Over Free Shipping Minimum](https://i.postimg.cc/gjGJqjHq/free-shipping.png)
+[![Checkout-3.png](https://i.postimg.cc/Qxn6Ypbp/Checkout-3.png)](https://postimg.cc/w7Lc7Rnv)
 
 ## Installation
 
